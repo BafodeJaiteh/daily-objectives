@@ -1,7 +1,7 @@
 # Objectifs journaliers
 
 ## Mardi 23/07/2019
-
+:x
 * [ ] Découverte du Markdown : 
   * [ ] Comprendre l'intérêt du Markdown
   * [ ] Découvrir les balises de bases : 
