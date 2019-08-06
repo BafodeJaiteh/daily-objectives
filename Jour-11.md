@@ -13,6 +13,6 @@
 * [ ] CSS : 
   * [ ] Savoir manipuler les polices en CSS
   * [X] Découvrir Google Fonts
-  * [ ] Savoir intégrer des polices extérieures dans le CSS
+  * [x] Savoir intégrer des polices extérieures dans le CSS
   * [ ] Comprendre la notion de cascade en CSS
   * [X] Comprendre le fonctionnement de l'héritage en CSS
