@@ -7,4 +7,4 @@
 * [x] Comprendre la méthode pédagogique et la philosophie de la formation
 * [x] S'interroger sur son mode de fonctionnement en termes d'apprentissage
 * [] Partager ses expériences d'apprentissage, échanger des trucs et astuces
-* [] Comprendre l'esprit hacker, développer le sien
+* [X] Comprendre l'esprit hacker, développer le sien
