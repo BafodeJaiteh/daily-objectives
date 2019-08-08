@@ -5,7 +5,7 @@
 
 * [x] Comprendre le métier de développeur, aperçu sur le mindset du dev
 * [] Savoir comment aborder la gestion de son temps
-* [x] Savoir comment poser des questions
+* [] Savoir comment poser des questions
 * [] Savoir comment aborder un problème
 * [x] Configuration de son environnement de travail
   * [x] Mise à jour Linux
