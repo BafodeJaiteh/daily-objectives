@@ -5,7 +5,7 @@
 
 * [ ] Javascript :
   * [x] Découvrir les 7 types de données en Javascript et comprendre leurs différences (http://javascript.info/types)
-  * [ ] Faire l'exercice
+  * [X] Faire l'exercice
 
 * [ ] Algo : 
   * [X] Découvrir le tri par selection (Selection Sort)
