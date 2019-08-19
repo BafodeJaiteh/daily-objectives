@@ -11,7 +11,7 @@
   * [X] Découvrir le tri à bulles (Bubble Sort)
 
 * [ ] CSS : 
-  * [ ] Découvrir le positionnement en CSS
+  * [X] Découvrir le positionnement en CSS
   * [ ] Comprendre le fonctionnement et les différentes notation des couleurs en CSS
   * [X] Comprendre les différentes notations pour le sizing en CSS (%, px, em, rem)
   * [X] Savoir appliquer des bordures, ombres et backgrounds
