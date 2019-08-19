@@ -6,7 +6,7 @@
 * [ ] Javascript :
   * [ ] Comprendre le fonctionnement des opérateurs en Javascript (https://javascript.info/operators#operator-precedence)
 
-    [X] Comprendre la différence entre unaire, binaire et opérande
+   * [X] Comprendre la différence entre unaire, binaire et opérande
 
 * [X] Comprendre la concaténation
     * [ ] Comprendre la précédence des opérateurs
