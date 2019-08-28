@@ -4,12 +4,12 @@
 
 
 * [ ] Javascript :
-  * [ ] Comprendre le fonctionnement des opérateurs conditionnels `if` et `?` (https://javascript.info/ifelse)
-    * [ ] Faire les 5 exercices
+  * [X] Comprendre le fonctionnement des opérateurs conditionnels `if` et `?` (https://javascript.info/ifelse)
+    * [X] Faire les 5 exercices
 
 * [ ] Algo : 
-  * [ ] Ecrire en pseudocode le Insertion Sort (création pure)
-  * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
+  * [X] Ecrire en pseudocode le Insertion Sort (création pure)
+  * [X] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 * [ ] CSS : 
   * [ ] Comprendre l'utilité et le fonctionnement des `mixins` dans SASS
