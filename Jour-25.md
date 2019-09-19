@@ -15,10 +15,10 @@
       * [X] Comprendre la différence entre une `collection` et un `array`
       * [X] Comprendre la différence entre un `element` et un `node`
       * [ ] Bien comprendre à quoi correspond : 
-        * [ ] `parentElement`
-        * [ ] `children`
-        * [ ] `firstElementChild`
-        * [ ] `lastElementChild`
+        * [X] `parentElement`
+        * [X] `children`
+        * [X] `firstElementChild`
+        * [X] `lastElementChild`
         * [ ] `previousElementSibling`
         * [ ] `nextElementSibling`
         * [ ] `parentNode`
@@ -32,5 +32,5 @@
 
 
 * Codewars :
-  * [ ] Thinkful - String Drills: Repeater (https://www.codewars.com/kata/585a1a227cb58d8d740001c3)
+  * [X] Thinkful - String Drills: Repeater (https://www.codewars.com/kata/585a1a227cb58d8d740001c3)
   * [ ] Remove First and Last Character Part Two (https://www.codewars.com/kata/570597e258b58f6edc00230d)
