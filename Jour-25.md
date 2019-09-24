@@ -19,14 +19,14 @@
         * [X] `children`
         * [X] `firstElementChild`
         * [X] `lastElementChild`
-        * [ ] `previousElementSibling`
-        * [ ] `nextElementSibling`
-        * [ ] `parentNode`
-        * [ ] `childNodes`
-        * [ ] `firstChild`
-        * [ ] `lastChild`
-        * [ ] `previousSibling`
-        * [ ] `nextSibling`
+        * [x] `previousElementSibling`
+        * [x] `nextElementSibling`
+        * [x] `parentNode`
+        * [x] `childNodes`
+        * [X] `firstChild`
+        * [X] `lastChild`
+        * [x] `previousSibling`
+        * [x] `nextSibling`
     * [ ] Faire les exercices
 
 
