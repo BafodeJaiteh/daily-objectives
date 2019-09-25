@@ -4,8 +4,8 @@
 
 * [ ] Javascript :
 
-  * [ ] Découvrir `Map` et `Set` (https://javascript.info/map-set)
-    * [ ] Comprendre la principale différence entre les deux.
+  * [X] Découvrir `Map` et `Set` (https://javascript.info/map-set)
+    * [X] Comprendre la principale différence entre les deux.
     * [ ] Faire les exercices
   
 
