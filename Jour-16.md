@@ -12,5 +12,5 @@
   * [X] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 * [ ] CSS : 
-  * [ ] Comprendre l'utilité et le fonctionnement des `mixins` dans SASS
+  * [X] Comprendre l'utilité et le fonctionnement des `mixins` dans SASS
   * [ ] Comprendre l'utilité et le fonctionnement de l'`extend` dans SASS 

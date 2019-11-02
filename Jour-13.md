@@ -9,7 +9,7 @@
    * [X] Comprendre la différence entre unaire, binaire et opérande
 
 * [X] Comprendre la concaténation
-    * [ ] Comprendre la précédence des opérateurs
+    * [X] Comprendre la précédence des opérateurs
     * [X] Comprendre le modulo
     * [X] Comprendre l'incrémentation, la différence entre préfix et postfix
 
