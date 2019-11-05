@@ -7,12 +7,12 @@
 
   * [ ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
-      * [ ] `querySelector`
-      * [ ] `querySelectorAll`
-      * [ ] `getElementById`
-      * [ ] `getElementsByName`
-      * [ ] `getElementsByTagName`
-      * [ ] `getElementsByClassName`
+      * [X] `querySelector`
+      * [X] `querySelectorAll`
+      * [X] `getElementById`
+      * [X] `getElementsByName`
+      * [X] `getElementsByTagName`
+      * [X] `getElementsByClassName`
       * [ ] `elem.matches(css)`
       * [ ] `elem.closest(css)`
     * [ ] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
@@ -27,12 +27,12 @@
 
   * [ ] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
     * Savoir comment : 
-      * [ ] vérifier l'existence d'un `attribute`
+      * [X] vérifier l'existence d'un `attribute`
       * [ ] récupérer la valeur d'un `attribute`
-      * [ ] écrire une valeur pour un `attribute`
-      * [ ] supprimer un `attribute`
+      * [X] écrire une valeur pour un `attribute`
+      * [X] supprimer un `attribute`
       * [ ] récupérer une collection de tous les `attributes`
 
 * Codewars :
-  * [ ] Count of positives / sum of negatives (https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
-  * [ ] Odd or Even? (https://www.codewars.com/kata/5949481f86420f59480000e7)
+  * [X] Count of positives / sum of negatives (https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
+  * [X] Odd or Even? (https://www.codewars.com/kata/5949481f86420f59480000e7)

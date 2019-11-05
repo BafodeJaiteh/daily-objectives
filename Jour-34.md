@@ -5,9 +5,9 @@
 
 ### Frameworks JS : 
 
-  * [ ] Découvir les composants (https://fr.vuejs.org/v2/guide/components.html)
+  * [X] Découvir les composants (https://fr.vuejs.org/v2/guide/components.html)
 
-  * [ ] Comprendre comment fonctionnent les relations parents/enfants dans Vue JS
+  * [X] Comprendre comment fonctionnent les relations parents/enfants dans Vue JS
     * [ ] props
     * [ ] events
     * [ ] data
