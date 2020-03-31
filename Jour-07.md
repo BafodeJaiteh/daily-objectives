@@ -16,4 +16,4 @@
   - [x] Découvrir le HTML5 sémantique
 - [x] Découvrir le maquettage fonctionnel (wireframe)
 - [x] Comprendre la différence entre les liens relatifs et liens absolus
-- [x] Savoir insérer des scripts JS dans une page HTML
+- [] Savoir insérer des scripts JS dans une page HTML
